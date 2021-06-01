@@ -1,0 +1,11 @@
+
+
+1. Bios build - fresh VSDK build - no changes
+2. tda2px
+3. on ubuntu 
+4. commands executed 
+	$ make -s -j depend
+	$ make -s -j
+	$ make -s sbl
+	$ make -s appimage
+5. all build succesful 
